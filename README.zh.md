@@ -121,8 +121,8 @@ Link Guard 本身不请求目标网站、不调用第三方安全检测服务，
 
 - [GitHub](https://github.com/ffans/link-guard)
 - [Packagist](https://packagist.org/packages/ffans/link-guard)
-- [英文社区](https://discuss.flarum.org/d/)
-- [中文社区](https://discuss.flarum.org.cn/d/)
+- [英文社区](https://discuss.flarum.org/d/39937)
+- [中文社区](https://discuss.flarum.org.cn/d/16571)
 
 ## 许可证
 
