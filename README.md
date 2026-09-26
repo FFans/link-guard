@@ -125,8 +125,8 @@ To help translate this extension, visit the [Weblate project](https://weblate.ro
 
 - [GitHub](https://github.com/ffans/link-guard)
 - [Packagist](https://packagist.org/packages/ffans/link-guard)
-- [Discuss](https://discuss.flarum.org/d/)
-- [Chinese Community](https://discuss.flarum.org.cn/d/)
+- [Discuss](https://discuss.flarum.org/d/39937)
+- [Chinese Community](https://discuss.flarum.org.cn/d/16571)
 
 ## License
 
